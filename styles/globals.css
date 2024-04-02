@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #F3F4FB;
+}
+
+
+.bg-betwork {
+    background: #F3F4FB url(/images/back-network.jpg) top no-repeat;
+    background-size: cover;
+}
